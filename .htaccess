@@ -1,0 +1,6 @@
+# Accesible Index Page
+<IfModule dir_module>
+ DirectoryIndex index.html
+ RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.(html|htm|php|php3|php5|shtml|phtml) [NC]
+ RewriteRule ^index\.html|htm|php|php3|php5|shtml|phtml$ / [R=301,L]
+</IfModule>
