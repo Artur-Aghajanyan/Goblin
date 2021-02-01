@@ -1,0 +1,2 @@
+// const trustpilot_trustbox_settings = {"trustboxes":[],"activeTrustbox":0,"pageUrls":{"landing":"https://goblin-gaming-uk.myshopify.com","category":"https://goblin-gaming-uk.myshopify.com/collections/black-friday-featured","product":"https://goblin-gaming-uk.myshopify.com/products/berlin-autobahn-gaming-mat"}};
+// dispatchEvent(new CustomEvent('trustpilotTrustboxSettingsLoaded'));
