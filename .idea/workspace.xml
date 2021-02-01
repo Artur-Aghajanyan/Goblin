@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40253284-e997-409c-8aec-e0c3462d2180" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Goblin Gaming_ UK's Top Wargaming Retailer &amp; Online Store_files/application.scss.css" beforeDir="false" afterPath="$PROJECT_DIR$/Goblin Gaming_ UK's Top Wargaming Retailer &amp; Online Store_files/application.scss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -39,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612122098737</updated>
       <workItem from="1612122099930" duration="2433000" />
-      <workItem from="1612169967784" duration="3090000" />
+      <workItem from="1612169967784" duration="7403000" />
     </task>
     <servers />
   </component>
